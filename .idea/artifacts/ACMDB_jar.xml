@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="ACMDB:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ACMDB_jar</output-path>
+    <root id="archive" name="ACMDB.jar">
+      <element id="module-output" name="ACMDB" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.42-bin.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
